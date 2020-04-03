@@ -1,12 +1,13 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
+import { Title } from 'react-native-paper';
 
 export default function HomeScreen() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>
+      <Title>
         Try editing me! 🎉
-      </Text>
+      </Title>
     </View>
   );
 }
