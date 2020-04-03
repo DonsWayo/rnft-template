@@ -1,0 +1,17 @@
+{
+  "name": "RNFT",
+  "displayName": "RNFT",
+  "expo": {
+    "name": "RNFT",
+    "slug": "RNFT",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
